@@ -2,7 +2,7 @@
 
 HomePilot est un gestionnaire de tâches pour le quotidien d’un foyer.
 
-L’objectif est de proposer une application simple, lisible et prête à être présentée comme projet de vitrine GitHub : tâches domestiques, suivi des actions, filtres, et structure maintenable.
+L’objectif est de proposer une application simple, lisible : tâches domestiques, suivi des actions, filtres, et structure maintenable.
 
 ## Fonctionnalités
 
